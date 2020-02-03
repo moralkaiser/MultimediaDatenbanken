@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Trash Card Generator</string>
+    <string name="title_activity_card_galery">CardGaleryActivity</string>
+</resources>

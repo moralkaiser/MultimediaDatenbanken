@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="occasion_array">
+        <item>Birthday</item>
+        <item>Easter</item>
+        <item>Hanukkah</item>
+        <item>Satanic New Year</item>
+        <item>April Fools Day</item>
+        <item>Christmas</item>
+        <item>St. Valentines Day</item>
+        <item>Ramadan</item>
+    </string-array>
+</resources>
